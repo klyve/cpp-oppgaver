@@ -8,6 +8,5 @@ int main() {
             << "1354 Fantasy street\n"
             << "Age: " << age << "\n"; 
 
-
   return 0;
 }

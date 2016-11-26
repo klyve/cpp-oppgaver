@@ -14,5 +14,5 @@ main.o: main.cpp
 
 
 clean:
-	 rm *o main.out
+	 rm *o main
 
